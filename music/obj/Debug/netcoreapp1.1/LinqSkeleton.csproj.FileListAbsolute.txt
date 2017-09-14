@@ -1,0 +1,8 @@
+C:\Users\jorge\Desktop\c#\music\bin\Debug\netcoreapp1.1\LinqSkeleton.deps.json
+C:\Users\jorge\Desktop\c#\music\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.json
+C:\Users\jorge\Desktop\c#\music\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.dev.json
+C:\Users\jorge\Desktop\c#\music\bin\Debug\netcoreapp1.1\LinqSkeleton.dll
+C:\Users\jorge\Desktop\c#\music\bin\Debug\netcoreapp1.1\LinqSkeleton.pdb
+C:\Users\jorge\Desktop\c#\music\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfo.cs
+C:\Users\jorge\Desktop\c#\music\obj\Debug\netcoreapp1.1\LinqSkeleton.dll
+C:\Users\jorge\Desktop\c#\music\obj\Debug\netcoreapp1.1\LinqSkeleton.pdb
