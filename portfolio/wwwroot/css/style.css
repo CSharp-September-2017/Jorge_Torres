@@ -1,0 +1,85 @@
+body
+{
+    width: 950px;
+    margin: 40px auto;
+    border: 1px solid lightskyblue;
+    border-radius: 5px;
+}
+nav {
+    margin: 30px;
+    text-decoration: none;
+}
+nav a{
+    padding-right: 20px;
+    text-decoration: none;
+    border-right: 1px solid lightskyblue;
+    margin: 10px;
+}
+.container{
+    border-top: 1px solid lightskyblue;
+}
+.image{
+    margin-top: 50px;
+}
+.cont{
+    display: inline-block;
+    width: 250px;
+    
+}
+.name
+{
+    font: 100 35px/1.3 'Arizonia', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+}
+.welcome{
+    margin-left: 25px;
+    font: 200 50px/1.3 'Arizonia', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+}
+.about{
+    display: inline-block;
+    width: 380px;
+    margin-left: 80px;
+    vertical-align: top;
+}
+.aboutMe
+{
+    margin-left: 25px;
+    font: 200 30px/1.3 'Arizonia', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+    margin-bottom: 8px;
+
+}
+p{
+    color: #899494;
+    font-size: 20px;
+    text-align:justify;
+    font-family: cursive;
+}
+
+/* ************ Project  ***********************/
+.imgCircle
+{
+    border-radius: 5px;
+}
+.contpic{
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid transparent;
+    border-radius: 25px;
+}
+.Desc
+{
+display: inline-block;
+width: 220px;
+vertical-align: top;
+margin-top: 10%;
+}
+.next
+{
+    margin:20px;
+    border-top: 1px solid lightskyblue;
+}
