@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using DbConnection; 
-
+// your code below is generally written in a XyzController file in a Controllers folder.  It's a change from what we did in the previous week.
+// Rebuild this project from scratch so that you are not altering this Program.cs file.  
 namespace CRUDMySQL
 {
     class Program
