@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-
+// pretty good job overall, Jorge. Next time I would recommend you build functions to do all the Basic 13 challenges.  It helps you understand a lot more!
 namespace basic13
 {
     class Program
@@ -15,8 +15,8 @@ namespace basic13
                 
             }
             for(int x=1; x<=max; x++)
-             {
-                if( x%2 == 0  ){
+             {  
+                if( x%2 == 0  ){ <--- This is checking evens actually
                     Console.WriteLine("Odd {0}", x);
                 }
              }
@@ -55,8 +55,8 @@ namespace basic13
 
         for(int x=1; x<=255; x++){
             if(x % 2 != 0){
-                int[] y = new int[]{ x };
-                foreach(int arr in y){
+                int[] y = new int[]{ x }; <-- It seems like you are creating a new array of integers every time you encounter an odd number?
+                foreach(int arr in y){ <-- Then you are iterating through it?  You've created as many single-value integer arrays as there are odd numbers
                     Console.WriteLine(arr);
                 }
             }
@@ -69,18 +69,18 @@ namespace basic13
             if(arr[i] > y){
                 Console.WriteLine("Greater than Y({0}), {1}",y, arr[i]);
             }
-        }
+        } <-- you need to have a total number of values greater than y don't forget.
         
         int[] x = new[]{1, 5, 10, -2};
         Console.WriteLine("The doables are:");
             for(int i=0; i<x.Length; i++){
-               int res = Math.Pow(x[i], 2);
+               int res = Math.Pow(x[i], 2); <-- Are you affecting the original array x or just creating an integer and printing it? Challenge yourself to alter the array itself.
                Console.WriteLine(res);
             }
         int[] x = new[]{1, -1, 10, -2};
         Console.WriteLine("Eliminated Negative Numbers");
-        for (int n = 0; n<x.Length; n++){
-            if(x[n] < 0){
+        for (int n = 0; n<x.Length; n++){ 
+            if(x[n] < 0){ <--- Nice job handling this.  This is 'in-place'
                 x[n] = 0;
             }
             Console.WriteLine(x[n]);
@@ -99,8 +99,8 @@ namespace basic13
 
         int[] x = new int[]{1, 5, 10, 7, -2};
 
-            // for(int y=0; y<x.Length-1; y++){
-            //     x[y] = x[y] + 1;
+            // for(int y=0; y<x.Length-1; y++){ 
+            //     x[y] = x[y] + 1; <-- x[y] = x[y+1]; 
             // }    
              x[x.Length -1]=0;
             foreach(int q in x){
