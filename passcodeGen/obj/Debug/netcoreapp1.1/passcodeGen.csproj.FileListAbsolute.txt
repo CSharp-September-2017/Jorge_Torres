@@ -1,0 +1,8 @@
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\bin\Debug\netcoreapp1.1\passcodeGen.deps.json
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\bin\Debug\netcoreapp1.1\passcodeGen.runtimeconfig.json
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\bin\Debug\netcoreapp1.1\passcodeGen.runtimeconfig.dev.json
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\bin\Debug\netcoreapp1.1\passcodeGen.dll
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\bin\Debug\netcoreapp1.1\passcodeGen.pdb
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\obj\Debug\netcoreapp1.1\passcodeGen.AssemblyInfo.cs
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\obj\Debug\netcoreapp1.1\passcodeGen.dll
+C:\Users\jorge\Desktop\repo_csharp\passcodeGen\obj\Debug\netcoreapp1.1\passcodeGen.pdb
