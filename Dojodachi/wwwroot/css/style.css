@@ -1,0 +1,19 @@
+li
+{
+    display: inline;
+    padding: 20px;
+}
+.button
+{
+    margin: 20px;
+}
+p
+{
+    margin: 20px;
+}
+a
+{
+    text-decoration: none;
+    color:teal;
+    padding: 20px;
+}

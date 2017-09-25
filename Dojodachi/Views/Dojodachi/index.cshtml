@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="~/css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h3>Dojodachi </h3>
+        <header class="info">
+           <li>Fullness: @ViewBag.Fullness</li>
+                <li>Happiness: @ViewBag.Happines</li>
+                    <li>Meals: @ViewBag.Meals </li>
+                        <li>Energy: @ViewBag.Energy</li>
+
+        </header>
+        <div>
+            <p>You played with your Dojodachi Happiness +10, Energy -5.</p>
+            
+        </div>
+        <div class="button">
+            <a href="/feed">Feed</a>
+            <a href="/play" name ="play">Play</a>
+            <a href="/work" name="work">Work</a>
+            <a href="/sleep" name="sleep">Sleep</a>
+        </div>
+
+    </div>
+</body>
+</html>
