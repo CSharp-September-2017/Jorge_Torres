@@ -1,0 +1,8 @@
+C:\Users\jorge\Desktop\repo_csharp\poke_info\bin\Debug\netcoreapp1.1\poke_info.deps.json
+C:\Users\jorge\Desktop\repo_csharp\poke_info\bin\Debug\netcoreapp1.1\poke_info.runtimeconfig.json
+C:\Users\jorge\Desktop\repo_csharp\poke_info\bin\Debug\netcoreapp1.1\poke_info.runtimeconfig.dev.json
+C:\Users\jorge\Desktop\repo_csharp\poke_info\bin\Debug\netcoreapp1.1\poke_info.dll
+C:\Users\jorge\Desktop\repo_csharp\poke_info\bin\Debug\netcoreapp1.1\poke_info.pdb
+C:\Users\jorge\Desktop\repo_csharp\poke_info\obj\Debug\netcoreapp1.1\poke_info.AssemblyInfo.cs
+C:\Users\jorge\Desktop\repo_csharp\poke_info\obj\Debug\netcoreapp1.1\poke_info.dll
+C:\Users\jorge\Desktop\repo_csharp\poke_info\obj\Debug\netcoreapp1.1\poke_info.pdb
