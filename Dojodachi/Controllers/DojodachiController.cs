@@ -14,6 +14,7 @@ namespace Dojodachi.Controllers
         public IActionResult Index()
         {
             int? Count = HttpContext.Session.GetInt32("fullness");
+            //contMessage = 
             if(Count == null)
             {
                 HttpContext.Session.SetInt32("fullness", 20);
@@ -26,6 +27,7 @@ namespace Dojodachi.Controllers
             ViewBag.Happines = HttpContext.Session.GetInt32("happines");
             ViewBag.Meals = HttpContext.Session.GetInt32("meals");
             ViewBag.Energy = HttpContext.Session.GetInt32("energy");
+            string message ="";
             return View();
         }
         
@@ -33,8 +35,7 @@ namespace Dojodachi.Controllers
         [Route("feed")]
         public IActionResult Feed()
         {
-            if(live() != true){
-  
+            string contMessage = "";
             var Meals = HttpContext.Session.GetInt32("meals");
             Meals -= 1;
             HttpContext.Session.SetInt32("meals", (int)Meals);
@@ -47,7 +48,7 @@ namespace Dojodachi.Controllers
             }
 
             
-            }    
+            
             
             return RedirectToAction("Index");
         }
