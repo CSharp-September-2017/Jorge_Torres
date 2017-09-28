@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using JsonData;
-
+// Hey Jorge, looks like a straight copy/paste from the solution.  I get it. It's hard to not use it.  Just make sure you're understanding this material.
 namespace ConsoleApplication
 {
     public class Program
@@ -33,6 +33,7 @@ namespace ConsoleApplication
                 Console.WriteLine(artist.RealName);
             }
             //Display the 3 oldest artist from Atlanta
+            // OrderByDescending will give you the correct answer
             List<Artist> OldArtist = Artists.Where(artist => artist.Hometown =="Atlanta").OrderBy(artist => artist.Age)
                                     .Take(3)
                                     .ToList();
