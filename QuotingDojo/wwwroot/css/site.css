@@ -1,0 +1,23 @@
+/*Write all of your CSS here*/
+
+.space 
+{
+    margin-right: 200px;
+}
+a{
+    text-decoration: none;
+}
+.bdr{
+    border:1px solid transparent;
+    color: #1da7d2;
+}
+.brd{
+    border-bottom: 1px solid rgba(82, 72, 72, 0.55);
+}
+.lf{
+    margin-left: 20px;
+}
+p{
+    margin-top: 20px;
+    line-height: 0.2;
+}

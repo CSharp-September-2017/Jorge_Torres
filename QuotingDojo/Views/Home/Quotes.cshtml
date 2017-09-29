@@ -1,0 +1,9 @@
+@{
+    foreach(var res in ViewBag.Select)
+    {
+      <div class="brd">
+        <p>"@res["quote"]"</p>
+        <p class="lf">-@res["name"] at @res["created_at"]</p>
+    </div>
+    }
+}
