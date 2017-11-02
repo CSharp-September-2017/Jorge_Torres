@@ -1,5 +1,5 @@
-Jorge E Torres-Hinojoza
-=======================
+Jorge E Torres-Hinojoza				jtorres-hinojoza@hotmail.com
+=======================				============================		
 
 
 ### Summary  ###
@@ -16,7 +16,8 @@ Computer System Engineer who finds pleasure of making things that are useful to 
  
  
 ### Education  ###
->Coding Dojo                                                                                         June 2017       October 2017 
+>Coding Dojo                                                                              June 2017       October 2017.
+
 >Bachelor of Science in Computer Science, Minor Telecommunications, January 2010, Universidad Vasco de Quiroga, Mexico. 
  
  
