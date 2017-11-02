@@ -23,7 +23,7 @@ Bachelor of Science in Computer Science, Minor Telecommunications, January 2010,
 ### PROFESSIONAL EXPERIENCE ###
  
 *API Implementation (Pokémon description)  *
->Create a web page that grabs an ID number from the URL and displays information about the corresponding API Pokémon. 
+>Create a web page that grabs an ID number from the URL and displays information about the corresponding API Pokémon. Working with Csharp.
  
  
  
