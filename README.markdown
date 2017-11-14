@@ -1,5 +1,6 @@
-### Jorge Torres-Hinojoza
-*630.456.6970* *Jtorres-hinojoza@hotmail.com* *https://github.com/CSharp-September-2017/Jorge_Torres* add LinkedIn url ###
+## Jorge Torres-Hinojoza ##
+#### *630.456.6970* ####
+#### *Jtorres-hinojoza@hotmail.com* #### #### *https://github.com/CSharp-September-2017/Jorge_Torres* #### 
 ================================================================================================================================
 
 ### SUMMARY ###
