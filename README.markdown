@@ -1,21 +1,27 @@
-Jorge Torres-Hinojoza
-630.456.6970 Jtorres-hinojoza@hotmail.com add GitHub url add LinkedIn url
-===
-###SUMMARY###
+### Jorge Torres-Hinojoza
+*630.456.6970* *Jtorres-hinojoza@hotmail.com* *https://github.com/CSharp-September-2017/Jorge_Torres* add LinkedIn url ###
+================================================================================================================================
+
+### SUMMARY ###
 I am a Computer System Engineer who enjoys learning new skills and creating useful technology.
 One of most satisfying aspects of the job as a programmer is seeing code you wrote deployed in a
 live system and being used to improve a business function. During the last year I have been
 expanding my skill set trough an online platform that has allowed me to apply this new skills on
 projects. I am currently looking for the right position to apply them in a business environment.
 
-###TECHNICAL SKILLS###
-> *Languages:* SQL, MySQL, PHP, JavaScript, HTML, XML, CSS, Bootstrap, Google Maps .kml, Python,
-C#, .Net.
+### TECHNICAL SKILLS ###
+> *Languages:* SQL, MySQL, PHP, JavaScript, HTML, XML, CSS, Bootstrap, Google Maps .kml, Python,C#, .Net.
+
 > *Applications:* WordPress, Joomla, NetBeans, Eclipse, EditPlus, GIT, GIS
+
 > *Application Server:* Tomcat, Apache, LAMP, XAMPP, Amazon AWS. Dapper, Entity Framework Core
+
 > *Operating Systems:* Windows, Linux.
+
 > *Database Systems:* SQL, SQL server, MySQL, MariaDB.
+
 > *API Implementations*
+
  
 ### Education  ###
 >Coding Dojo                                                                              June 2017       October 2017.
@@ -31,7 +37,7 @@ C#, .Net.
  
 ### PHP Web Developer                                                              January 2017 - January 2017 ###
 *MyConsulting Company *
-*ICC International Code Council *
+..*ICC International Code Council 
 >Implemented technology for a modern, digital process to support the organization and the code development process.  
 Utilized open source solutions focused mostly on PHP (Symfony, WordPress, Joomla) on RHEL for the backend, with MySQL as the primary database of most applications, and a mix of jQuery, Angular, React and straight javascript in the front-end. 
  
