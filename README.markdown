@@ -1,5 +1,5 @@
-Jorge E Torres-Hinojoza
-=======================
+Jorge E Torres-Hinojoza  		#jtorres-hinojoza@hotmail.com#
+============================================================		
 
 
 ### Summary  ###
@@ -7,23 +7,24 @@ Computer System Engineer who finds pleasure of making things that are useful to 
  
  
 ### Technical Skills ###  
-*Languages:*  SQL, MySQL, PHP, JavaScript, HTML, XML, CSS, Bootstrap, Google Maps .kml,   Python, C#. 
-*Applications:* WordPress, Joomla, NetBeans, Eclipse, EditPlus, GIT, GIS. 
-*Application Server:* Tomcat, Apache, LAMP, XAMPP, Amazon AWS. Dapper, Entity Framework Core (EFCore). 
-*Operating Systems:* Windows, Linux. 
-*Database systems:* SQL, SQL server, MySQL, MariaDB. 
+>*Languages:*  SQL, MySQL, PHP, JavaScript, HTML, XML, CSS, Bootstrap, Google Maps .kml,   Python, C#. 
+>*Applications:* WordPress, Joomla, NetBeans, Eclipse, EditPlus, GIT, GIS. 
+>*Application Server:* Tomcat, Apache, LAMP, XAMPP, Amazon AWS. Dapper, Entity Framework Core (EFCore). 
+>*Operating Systems:* Windows, Linux. 
+>*Database systems:* SQL, SQL server, MySQL, MariaDB. 
  
  
  
 ### Education  ###
-Coding Dojo                                                                                         June 2017       October 2017 
-Bachelor of Science in Computer Science, Minor Telecommunications, January 2010, Universidad Vasco de Quiroga, Mexico. 
+>Coding Dojo                                                                              June 2017       October 2017.
+
+>Bachelor of Science in Computer Science, Minor Telecommunications, January 2010, Universidad Vasco de Quiroga, Mexico. 
  
  
 ### PROFESSIONAL EXPERIENCE ###
  
 *API Implementation (Pokémon description)  *
->Create a web page that grabs an ID number from the URL and displays information about the corresponding API Pokémon. 
+>Create a web page that grabs an ID number from the URL and displays information about the corresponding API Pokémon. Working with Csharp.
  
  
  
