@@ -1,19 +1,21 @@
-Jorge E Torres-Hinojoza  		#jtorres-hinojoza@hotmail.com#
-============================================================		
+Jorge Torres-Hinojoza
+630.456.6970 Jtorres-hinojoza@hotmail.com add GitHub url add LinkedIn url
+===
+###SUMMARY###
+I am a Computer System Engineer who enjoys learning new skills and creating useful technology.
+One of most satisfying aspects of the job as a programmer is seeing code you wrote deployed in a
+live system and being used to improve a business function. During the last year I have been
+expanding my skill set trough an online platform that has allowed me to apply this new skills on
+projects. I am currently looking for the right position to apply them in a business environment.
 
-
-### Summary  ###
-Computer System Engineer who finds pleasure of making things that are useful to other people. One of most satisfying aspects of the job as a programmer is seeing code you wrote deployed in a live system and used by actual people, especially if it improves their lives in some way. 
- 
- 
-### Technical Skills ###  
->*Languages:*  SQL, MySQL, PHP, JavaScript, HTML, XML, CSS, Bootstrap, Google Maps .kml,   Python, C#. 
->*Applications:* WordPress, Joomla, NetBeans, Eclipse, EditPlus, GIT, GIS. 
->*Application Server:* Tomcat, Apache, LAMP, XAMPP, Amazon AWS. Dapper, Entity Framework Core (EFCore). 
->*Operating Systems:* Windows, Linux. 
->*Database systems:* SQL, SQL server, MySQL, MariaDB. 
- 
- 
+###TECHNICAL SKILLS###
+> *Languages:* SQL, MySQL, PHP, JavaScript, HTML, XML, CSS, Bootstrap, Google Maps .kml, Python,
+C#, .Net.
+> *Applications:* WordPress, Joomla, NetBeans, Eclipse, EditPlus, GIT, GIS
+> *Application Server:* Tomcat, Apache, LAMP, XAMPP, Amazon AWS. Dapper, Entity Framework Core
+> *Operating Systems:* Windows, Linux.
+> *Database Systems:* SQL, SQL server, MySQL, MariaDB.
+> *API Implementations*
  
 ### Education  ###
 >Coding Dojo                                                                              June 2017       October 2017.
@@ -22,13 +24,6 @@ Computer System Engineer who finds pleasure of making things that are useful to 
  
  
 ### PROFESSIONAL EXPERIENCE ###
- 
-*API Implementation (Pokémon description)  *
->Create a web page that grabs an ID number from the URL and displays information about the corresponding API Pokémon. Working with Csharp.
- 
- 
- 
- 
  
  
  
@@ -40,6 +35,7 @@ Computer System Engineer who finds pleasure of making things that are useful to 
 >Implemented technology for a modern, digital process to support the organization and the code development process.  
 Utilized open source solutions focused mostly on PHP (Symfony, WordPress, Joomla) on RHEL for the backend, with MySQL as the primary database of most applications, and a mix of jQuery, Angular, React and straight javascript in the front-end. 
  
+
 ### PHP Web Developer        October 2016 – December 2016 ###
 *Etech360*
 >Used comprehensive knowledge of current web technologies and best practices to translate UI designs and workflows into working interactive applications and experiences.  
@@ -49,7 +45,7 @@ Created technical designs for application features and associated documentation.
 Worked to improve quality and efficiency by evaluating standards and suggesting improvements. 
 Verified implementation across multiple browsers and operating systems.  
 Participated in departmental process improvement initiative.  
-Environment: PHP, HTML/CSS, JavaScript, jQuery, AJAX, MySQL, LAMP, MVC Framework, Codeigniter, Git.  
+Environment: PHP, HTML/CSS, JavaScript, jQuery, MySQL, LAMP, Codeigniter, Git.  
  
 ### Web Developer                                                                                  July 2013 – October 2016 ###
 *American Spirit Data Solution*
@@ -61,7 +57,8 @@ Learned Google technologies such as Google Maps, Google graphics.
 Wrote complex SQL queries to update databases, created reports and store procedures. 
 Developed and produced PHP files. 
 Created marketing applications using WordPress to generate sales leads. 
-Environment: WordPress, HTML, LINUX, (Terminal Cygwin), MySQL, Apache, PHP, JavaScript, CSS3, HTML, Bootstrap, Amazon AWS, Laravel. 
+Environment: WordPress, HTML, LINUX, (Terminal Cygwin), MySQL, Apache, PHP, JavaScript, CSS3, HTML, Bootstrap, Amazon AWS. 
+ 
  
 ### Web Developer                                                                                  February 2013 – April 2013 ###
 *Solution Partners INC.* 
