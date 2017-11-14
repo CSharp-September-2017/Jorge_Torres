@@ -1,6 +1,7 @@
 ## Jorge Torres-Hinojoza ##
-#### *630.456.6970*  *Jtorres-hinojoza@hotmail.com*  *https://github.com/CSharp-September-2017/Jorge_Torres* #### 
-================================================================================================================================
+
+#### *630.456.6970* | *Jtorres-hinojoza@hotmail.com* | *https://github.com/CSharp-September-2017/Jorge_Torres* #### 
+--------------------------------------------------------------------------------------------------------------------
 
 ### SUMMARY ###
 I am a Computer System Engineer who enjoys learning new skills and creating useful technology.
